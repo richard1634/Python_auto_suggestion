@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"prod",
+				"product_detail_view"
+			],
+			[
+				"pro",
+				"profile_view"
+			],
+			[
+				"auth",
+				"auth_views"
+			],
+			[
+				"User",
+				"UserRegisterForm"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"register",
+				"register_view"
+			],
+			[
+				"u",
+				"UserCreationForm"
+			],
+			[
+				"about",
+				"about_view"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Richard Le/Desktop/neeva/richard_editor.py",
+		"/C/Users/Richard Le/Desktop/neeva/editor.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/tasks/task_create.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/task/models.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/task/views.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/applan/urls.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/task/forms.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/task.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/static/css/home.css",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/home.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/footer.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/navbar.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/static/css/navbar.css",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/static/css/main.css",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/users/profile.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/base.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/about.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/detail.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/applan/settings.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/users/views.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/users/login.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/static/svg/applan_logo.svg",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/users/register.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/users/logout.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/static/svg/generated.svg",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/templates/contact.html",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/users/forms.py",
+		"/C/Users/Richard Le/Desktop/applan_logo.svg",
+		"/C/Users/Richard Le/Downloads/applan_logo.svg",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/pages/views.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/users/models.py",
+		"/C/Users/Richard Le/Desktop/dev/applan/applan/task/admin.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\")\n",
+			"forms.py",
+			"}\n",
+			"navbar",
+			"%}",
+			"href",
+			"SVG",
+			"*/\n",
+			"staticfile",
+			"crispy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "editor.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

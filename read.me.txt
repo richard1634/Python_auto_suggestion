@@ -1,0 +1,48 @@
+
+
+High level overview:
+
+	Using hashtable for the editor was a decent solution, at a glance they seem to 
+	do a good, straight-forward job. On a large scale dictionary, you'd need to make a good hash function in order
+	to avoid collisions. When dictionaries grow big, they neex very complex hash functions adding to time complexity. 
+	I remember studying about tries and how their stucture of being a prefix tree sounds
+	it would work great with an editor where you have to type information in. It's much more dynamic and allows
+	me to implement more plug-ins. It also just felt right, because typing requires making a pre-fix of the word. Therefore,
+	it would make sense to make a pre-fix tree or trie.
+
+The advantages of tries included: 
+	+similar look up times O(n) where n is the length of input key
+	+dynamic data structures with support of insertions and deletions
+	+provides order because it's a prefix tree.
+	+avoid making a complicated hashfunction.
+	+freedom to implement more features for my editor
+Disadvantages:
+	-may take more data space, trees can be compressed which can fix this. 
+	-trie hass more complicated code vs hashtable.
+	-the tree doesn't neccessarily improve speeds, as hashtable would be O(n) where n is length of input key as well.
+
+
+Extensions I made- 
+	-Trie or prefix tree implementation.
+	-Trie supports prefix matching. Which I used to implement a auto-suggestion feature.
+		-Please refer to line 243, replace "prefix" with any prefix you like, it will suggest completed words from the dictionary you provided.
+
+	-Command line arguments for the benchmark test.
+		-ability to run original code, mine and a side-by-side comparison. I explain how to use this feature below.
+
+Extensions I'd make in the future- 
+
+	In the feature I would like to implement an extension to auto suggestions while the user is typing. Currently, 
+	I only implemented the logic to manually put individual input for auto suggestions. I can recall the function everytime
+	the user is typing and add UI that the user can use to auto-fill text like a editor auto complete plugin.
+
+
+To run my program:
+Kindly replace line 105 with the location of your dictionary. It should look something like this : open("/usr/share/dict/words")
+
+
+running the code:
+	Python: 	
+		to run the original: 			          python editor.py original
+		to run mine(richard):			          python editor.py richard
+		to run both(benchmarked side-by-side comparison): python editor.py both
